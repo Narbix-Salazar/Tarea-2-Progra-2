@@ -1,0 +1,14 @@
+C:\Users\Nar\Downloads\Tarea 2 -Narbix\Tarea 2-Progra 2\Tarea 2-Progra 2\bin\Debug\net8.0\Tarea 2-Progra 2.exe
+C:\Users\Nar\Downloads\Tarea 2 -Narbix\Tarea 2-Progra 2\Tarea 2-Progra 2\bin\Debug\net8.0\Tarea 2-Progra 2.deps.json
+C:\Users\Nar\Downloads\Tarea 2 -Narbix\Tarea 2-Progra 2\Tarea 2-Progra 2\bin\Debug\net8.0\Tarea 2-Progra 2.runtimeconfig.json
+C:\Users\Nar\Downloads\Tarea 2 -Narbix\Tarea 2-Progra 2\Tarea 2-Progra 2\bin\Debug\net8.0\Tarea 2-Progra 2.dll
+C:\Users\Nar\Downloads\Tarea 2 -Narbix\Tarea 2-Progra 2\Tarea 2-Progra 2\bin\Debug\net8.0\Tarea 2-Progra 2.pdb
+C:\Users\Nar\Downloads\Tarea 2 -Narbix\Tarea 2-Progra 2\Tarea 2-Progra 2\obj\Debug\net8.0\Tarea 2-Progra 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nar\Downloads\Tarea 2 -Narbix\Tarea 2-Progra 2\Tarea 2-Progra 2\obj\Debug\net8.0\Tarea 2-Progra 2.AssemblyInfoInputs.cache
+C:\Users\Nar\Downloads\Tarea 2 -Narbix\Tarea 2-Progra 2\Tarea 2-Progra 2\obj\Debug\net8.0\Tarea 2-Progra 2.AssemblyInfo.cs
+C:\Users\Nar\Downloads\Tarea 2 -Narbix\Tarea 2-Progra 2\Tarea 2-Progra 2\obj\Debug\net8.0\Tarea 2-Progra 2.csproj.CoreCompileInputs.cache
+C:\Users\Nar\Downloads\Tarea 2 -Narbix\Tarea 2-Progra 2\Tarea 2-Progra 2\obj\Debug\net8.0\Tarea 2-Progra 2.dll
+C:\Users\Nar\Downloads\Tarea 2 -Narbix\Tarea 2-Progra 2\Tarea 2-Progra 2\obj\Debug\net8.0\refint\Tarea 2-Progra 2.dll
+C:\Users\Nar\Downloads\Tarea 2 -Narbix\Tarea 2-Progra 2\Tarea 2-Progra 2\obj\Debug\net8.0\Tarea 2-Progra 2.pdb
+C:\Users\Nar\Downloads\Tarea 2 -Narbix\Tarea 2-Progra 2\Tarea 2-Progra 2\obj\Debug\net8.0\Tarea 2-Progra 2.genruntimeconfig.cache
+C:\Users\Nar\Downloads\Tarea 2 -Narbix\Tarea 2-Progra 2\Tarea 2-Progra 2\obj\Debug\net8.0\ref\Tarea 2-Progra 2.dll
